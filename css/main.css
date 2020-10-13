@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background: url(../img/beach.jpg) no-repeat center center fixed;
     background-size: cover;
    /* set height to 100% - these are important for allowing content to vertically align */
    height: 100%;
@@ -134,6 +134,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 15px;
 }
 
 #content p span {
